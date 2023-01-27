@@ -1,0 +1,20 @@
+.header {
+    padding: 0 2vw; /*20px*/
+    grid-area: h;
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header img {
+    width: 20px;
+}
+
+.loginBlock {
+
+}
+
+.loginBlock a {
+    color: white;
+}
